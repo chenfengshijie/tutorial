@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-  cout<<"asdfds";
+  cout<<"第一使用GIthub";
   return 0;
 }
